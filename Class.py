@@ -16,4 +16,6 @@ blu = Parrot("BLU",10)
 
 # call our instance method
 print(blu.sing("Happy"))
+print(blu.sing("Lappy"))
+print(blu.sing("appy"))
 print(blu.dance())
