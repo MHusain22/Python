@@ -1,0 +1,10 @@
+#write a program to create two string at run time and perform concat,lenth,slysing 
+str1=input("Enter the first string: ")
+str2=input("Enter the seconf string: ")
+
+print("Length of first string is:",len(str1))
+print("Length of second string is:",len(str2))
+
+print(str1+str2)
+print(str1[2 : 4])
+print(str2[1 : 3])
